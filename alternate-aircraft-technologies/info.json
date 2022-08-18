@@ -1,0 +1,15 @@
+{
+    "factorio_version": "1.1",
+    "version": "0.1.0",
+    "dependencies": ["base >= 1.1.21",
+        "HelicopterRevival >= 0.2.1",
+        "lex-aircraft >= 1.1.0",
+        "? space-exploration >= 0.6.81"
+    ],
+    "name": "alternate-aircraft-technologies",
+    "title": "Alternate Aircraft Technologies",
+    "author": "OnigiriOni",
+    "contact": "",
+    "homepage": "",
+    "description": "Modifies Lex's Aircraft technologies to fit with Helicopter Revival.\n\nMakes the helicopter tech depend on robotics instead of rocketry and Lex's jet engine tech depend on the helicopter tech. Additionally it reduces the tech cost of the Heavyship from 2500 to 1000-1500 (depending on options) to be more in line with the other techs. If Space Exploration is installed it removes the usage of rocket sience packs for the heavyship and adds back the normal science packs."
+  }
